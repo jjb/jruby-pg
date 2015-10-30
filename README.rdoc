@@ -8,8 +8,8 @@ inconsistency please open an issue
 = Documentation
 
 For documentation please refair to the MRI pg gem docs which you can
-find {here}(http://www.rubydoc.info/gems/pg/0.17.1/PG). The original
-ruby-pg project can be found {here on github}(https://github.com/ged/ruby-pg)
+find {here}[http://www.rubydoc.info/gems/pg/0.17.1/PG]. The original
+ruby-pg project can be found {here on github}[https://github.com/ged/ruby-pg]
 
 == Build Status
 
