@@ -35,8 +35,7 @@ not regularly tested.
 
 == How To Install
 
-*NOTE*: if you are installing jruby-pg to use it with rails you'll
- have to install it using bundler
+*NOTE*: if you are installing jruby-pg to use it with rails you'll have to install it using bundler.
 
 Install via RubyGems:
 
