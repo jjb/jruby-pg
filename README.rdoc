@@ -3,7 +3,7 @@
 This is a JRuby gem replacement for ruby-pg. The gem should be a
 drop-in replacement for ruby-pg version 0.17.1. If you see any
 inconsistency please open an issue
-{here}(https://github.com/headius/jruby-pg/issues)
+{here}[https://github.com/headius/jruby-pg/issues]
 
 = Documentation
 
